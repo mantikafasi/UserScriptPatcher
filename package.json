@@ -1,0 +1,16 @@
+{
+  "name": "jsposeduserscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node esbuild.config.mjs"
+  },
+  "keywords": [],
+  "author": "mantikafasi",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.19.3",
+    "jsposed": "^1.0.4"
+  }
+}
